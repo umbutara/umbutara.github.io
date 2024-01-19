@@ -1,0 +1,46 @@
+.warna1 {
+  background-color: #f8f4ec;
+}
+
+.warna2 {
+  background-color: #ff9bd2;
+}
+
+.warna3 {
+  background-color: #d63484;
+}
+.warna4 {
+  background-color: #402b3a;
+}
+
+.banner {
+  height: 80vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../images/bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.text-harga {
+  font-size: 20px;
+  color: #790c5a;
+}
+
+.image-box {
+  height: 300px;
+}
+
+.image-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.banner-produk {
+  height: 70vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../images/bg-pro.jpg");
+  background-size: cover;
+  background-position: center;
+}
